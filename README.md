@@ -1,10 +1,8 @@
 # node-server
 
-# 1 - Iniciamos npm
+ 1 - Iniciamos npm
+     npm init
 
-# npm init
-
-# 2 - Instalamos express
-
-# npm install express
+ 2 - Instalamos express
+     npm install express
 
