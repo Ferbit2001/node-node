@@ -7,4 +7,6 @@
 
  2 - Instalamos express
    - npm install express
+   - apareceran dos 1 carpeta y un archivo más
+   - package-lock.json y node_modules/
 
